@@ -124,4 +124,4 @@ prefix is what gets matched against collection names.
 
 ## License
 
-Released under the MIT License. See `LICENSE` for details.
+This was entirely slopcoded. It's public domain.
